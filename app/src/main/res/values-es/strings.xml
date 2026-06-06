@@ -283,4 +283,6 @@
     <string name="margin_vertical">Margen vertical</string>
     <string name="margin_horizontal">Margen horizontal</string>
     <string name="shortcut_with_appName">%1$s: %2$s</string>
+    <string name="tags_menu_section">Menú de etiquetas</string>
+    <string name="result_fading_edge">Degradado</string>
 </resources>
