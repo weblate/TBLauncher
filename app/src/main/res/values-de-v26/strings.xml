@@ -2,4 +2,6 @@
 <resources>
     <string name="adaptive_shape_name">Adaptive Symbolform</string>
     <string name="force_adaptive">Adaptive Symbole erzwingen</string>
+    <string name="force_shape">Adaptive Form erzwingen</string>
+    <string name="force_shape_summary">Adaptive Maske für nicht-adaptive Symbole benutzen</string>
 </resources>
