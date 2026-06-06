@@ -32,10 +32,10 @@
     <string name="icon_pack_content_list">Icônes de
 \n%s</string>
     <string name="lwp_touch">Envoyer des événements tactiles au fond d\'écran</string>
-    <string name="menu_app_details">Infos de l\'app</string>
-    <string name="menu_app_store">Voir dans le store</string>
+    <string name="menu_app_details">Info de l\'application</string>
+    <string name="menu_app_store">Voir dans le magasin</string>
     <string name="menu_app_uninstall">Désinstaller</string>
-    <string name="menu_app_hibernate">Mettre en veille</string>
+    <string name="menu_app_hibernate">Hiberner</string>
     <string name="menu_exclude_history">depuis l\'historique</string>
     <string name="menu_exclude_kiss">depuis TinyBit</string>
     <string name="application_not_found">Impossible de lancer l\'application \"%s\"</string>
@@ -205,4 +205,61 @@
     <string name="action_show_contacts_reversed">Contacts Z→A</string>
     <string name="action_show_shortcuts">Raccourcis A→Z</string>
     <string name="action_show_shortcuts_reversed">Raccourcis Z→A</string>
+    <string name="selected_pack">%s
+\n[paquet actuel]</string>
+    <string name="menu_widget_setup">Configurer le widget…</string>
+    <string name="offset_preview">&lt;%1$.1f×%2$.1f&gt;</string>
+    <string name="result_highlight_color">Couleur de surbrillance</string>
+    <string name="quick_list_color">Couleur d\'arrière-plan</string>
+    <string name="menu_popup_quick_list_customize">Éditer le dock</string>
+    <string name="invalid_rename_tag">Il y a déjà une étiquette \"%s\"</string>
+    <string name="enable_search">Moteur de recherche</string>
+    <string name="edit_search_engines">Éditer les moteurs de recherche</string>
+    <string name="edit_search_engines_summary">Basculer et éditer les fournisseurs de recherche</string>
+    <string name="reset_search_engines_summary">Restaurer les moteurs de recherche par défaut</string>
+    <string name="add_search_engine">Ajouter un moteur de recherche</string>
+    <string name="edit_search_hint">Éditer la suggestion de recherche</string>
+    <string name="edit_search_hint_summary">Basculer et éditer les suggestions de recherche</string>
+    <string name="tab_app_icons">%s
+\n[icônes d\'application]</string>
+    <string name="tab_search_icon">Icône de recherche</string>
+    <string name="tab_button_icon">Icône de bouton</string>
+    <string name="search_engine_edit_url">Éditer l\'URL</string>
+    <string name="confirm_edit_url_search_engine">Sauvegarder</string>
+    <string name="gesture_section">Gestes</string>
+    <string name="quick_list_show_badge">Montre l\'insigne du raccourci dans le dock</string>
+    <string name="result_list_argb">Couleur et opacité d\'arrière-plan</string>
+    <string name="shortcut_show_badge_summary">Montre l\'icône d\'application d\'origine du raccourci</string>
+    <string name="contact_action_color">Couleur d\'icône d\'action</string>
+    <string name="result_icon_size">Taille d\'icône</string>
+    <string name="result_shadow_radius_dx_dy">Taille et décalage de l\'ombre</string>
+    <string name="result_text_size">Taille du texte</string>
+    <string name="reset_search_engines">Réinitialiser les moteurs de recherche</string>
+    <string name="search_engine_url_help">%s sera remplacé par votre requête</string>
+    <string name="fuzzy_search_tags">Chercher dans les étiquettes</string>
+    <string name="shortcut_show_badge">Montre l\'insigne de l\'application</string>
+    <string name="quick_list_toggle_color">Bascule la couleur d\'arrière-plan</string>
+    <string name="shortcut_pin_auto_confirm">Autoconfirme le raccourci</string>
+    <string name="search_bar_text_color">Couleur du texte</string>
+    <string name="result_text_color">Couleur du texte</string>
+    <string name="provider_section">Fournisseurs</string>
+    <string name="result_text2_color">Couleur de texte secondaire</string>
+    <string name="result_shadow_color">Couleur d\'ombre de texte</string>
+    <string name="search_bar_icon_color">Couleur des icônes</string>
+    <string name="enable_dial">Recherche de numéro</string>
+    <string name="enable_url">URL web</string>
+    <string name="enable_calculator">Calculatrice</string>
+    <string name="enable_contacts">Contacts téléphoniques</string>
+    <string name="selected_contact_mime_types">Sélectionner les contacts à montrer</string>
+    <string name="hint_add_search_engine_url">https://search.engine/query=%s</string>
+    <string name="label_search_engine_name">Nom du fournisseur</string>
+    <string name="label_search_engine_url">URL à ouvrir</string>
+    <string name="reset_search_hint">Réinitialiser la suggestion de recherche</string>
+    <string name="reset_search_hint_summary">Restaurer toutes les suggestions de recherche</string>
+    <string name="add_search_hint">Ajouter une suggestion de recherche</string>
+    <string name="search_engine_set_default">Choisir par défaut</string>
+    <string name="result_text2_size">Taille du texte secondaire</string>
+    <string name="invalid_rename_search_engine">Il y a déjà un moteur de recherche \"%s\"</string>
+    <string name="tab_static_icons">Icône par défaut</string>
+    <string name="icon_pack_loading">Charger depuis le paquet d\'icônes…</string>
 </resources>
