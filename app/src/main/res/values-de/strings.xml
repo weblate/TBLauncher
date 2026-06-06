@@ -162,4 +162,6 @@
     <string name="cache_half_apps">Kleiner Cache</string>
     <string name="cache_half_apps_summary">Legt die Größe des LRU Cache auf die Hälfte der installierten Apps fest</string>
     <string name="cfg_widget_remove">Entfernen</string>
+    <string name="menu_widget_setup">Widget konfigurieren …</string>
+    <string name="offset_preview">&lt;%1$.1f×%2$.1f&gt;</string>
 </resources>
