@@ -26,5 +26,5 @@
     <string name="menu_remove_shortcut">Lösen</string>
     <string name="menu_tags_add">Tags hinzufügen</string>
     <string name="menu_tags_edit">Stichworte bearbeiten</string>
-    <string name="force_adaptive_summary">Verringerte Skalierung und Platzierung auf Formhintergrund für nicht adaptive Icons</string>
+    <string name="force_adaptive_summary">Verringerte Skalierung und Platzierung auf Formenhintergrund für nicht adaptive Icons</string>
 </resources>
